@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TugasBelajarIntent_Yukie</string>
+    <string name="btn_contact">Contact</string>
+    <string name="btn_dial">Dial</string>
+    <string name="share_text">Share Text</string>
+    <string name="open_location">open location</string>
+    <string name="open_web">open web</string>
+    <string name="open_camera">open camera</string>
+    <string name="select_image">select image</string>
+</resources>
